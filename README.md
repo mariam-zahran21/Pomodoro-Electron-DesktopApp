@@ -1,7 +1,7 @@
 # Pomodoro Electron Desktop App
 
 A minimalist, premium Pomodoro timer built with Electron. This app features a frameless pink aesthetic, custom window controls, and built-in sound alerts.
-
+![Pomodoro App Screenshot]([https://your-image-link.com/image.png](https://github.com/mariam-zahran21/Pomodoro-Electron-DesktopApp/blob/main/dufhdjk.PNG))
 ## Features
 - **Frameless Design**: A sleek, minimal interface.
 - **Custom Controls**: Integrated Minimize and Close buttons.
@@ -48,4 +48,3 @@ npm run dist
 - `icon.png`: Custom app icon.
 
 
-![image alt] (https://github.com/mariam-zahran21/Pomodoro-Electron-DesktopApp/blob/main/dufhdjk.PNG)
