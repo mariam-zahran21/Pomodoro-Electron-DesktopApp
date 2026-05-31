@@ -46,3 +46,6 @@ npm run dist
 - `styles.css`: The "Pink Aesthetic" styling.
 - `script.js`: Timer logic and sound generation.
 - `icon.png`: Custom app icon.
+
+
+![image alt] (https://github.com/mariam-zahran21/Pomodoro-Electron-DesktopApp/blob/main/dufhdjk.PNG)
